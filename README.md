@@ -88,7 +88,7 @@
 ```
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
-
+![]()
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
